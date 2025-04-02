@@ -74,7 +74,7 @@ npm install &>>$LOG_FILE_NAME
 VALIDATE $? "Installing dependencies"
 
 
-cp /opt/expense-shell_practice/back_end.service /etc/systemd/system/backend.service
+cp /opt/expense-shell_practii/back_end.service /etc/systemd/system/backend.service
 
 # Prepare MySQL Schema
 
